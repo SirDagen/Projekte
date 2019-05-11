@@ -16,7 +16,8 @@ Nachfolgend eine Übersicht über die Telegram-Kanäle, die ich pflege.
 
 - [Transformative Gedichte](https://t.me/unbeirrbar)
 
-### Fehler
+
+## Fehler
 
 Wenn es Probleme gibt, einfach anschreiben unter folgender Email (einfach zusammensetzen): 
 
