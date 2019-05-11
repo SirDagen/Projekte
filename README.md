@@ -11,9 +11,20 @@ Also dachte ich, ich mache einfach mal eine Seite mit Links, die mir gefallen:
 
          •  Gartentipps
 
-         •  Transformative Gedichte
-         
-         
+Globales Wetter (Deutschland)
+- Wetterlage Deutschland
+- Wetteruhr (für NRW)
+- Gartentipps
+
+Lokales Wetter:
+
+- Köln-Wetter
+- Duisburg-Wetter
+- Dortmund-Wetter
+
+- Transformative Gedichte
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
