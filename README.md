@@ -2,21 +2,13 @@
 
 Also dachte ich, ich mache einfach mal eine Seite mit Links, die mir gefallen:
 
-         •  Wetterlage Deutschland
-         •  Wetteruhr (für NRW)
+**Globales Wetter (Deutschland)**
 
-         •  Köln-Wetter
-         •  Duisburg-Wetter
-         •  Dortmund-Wetter
-
-         •  Gartentipps
-
-Globales Wetter (Deutschland)
-- Wetterlage Deutschland
+- Wetterlage Deutschland [https://t.me/wetterlage]
 - Wetteruhr (für NRW)
 - Gartentipps
 
-Lokales Wetter:
+**Lokales Wetter:**
 
 - Köln-Wetter
 - Duisburg-Wetter
