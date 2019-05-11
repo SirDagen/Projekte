@@ -1,7 +1,19 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SirDagen/my-projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Also dachte ich, ich mache einfach mal eine Seite mit Links, die mir gefallen:
 
+         •  Wetterlage Deutschland
+         •  Wetteruhr (für NRW)
+
+         •  Köln-Wetter
+         •  Duisburg-Wetter
+         •  Dortmund-Wetter
+
+         •  Gartentipps
+
+         •  Transformative Gedichte
+         
+         
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
