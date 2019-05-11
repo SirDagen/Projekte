@@ -1,52 +1,26 @@
-## Welcome to GitHub Pages
+## Deutsche Telegram-Kanäle
 
-Also dachte ich, ich mache einfach mal eine Seite mit Links, die mir gefallen:
+Nachfolgend eine Übersicht über die Telegram-Kanäle, die ich pflege.
 
 **Globales Wetter (Deutschland)**
 
-- Wetterlage Deutschland [https://t.me/wetterlage]
-- Wetteruhr (für NRW)
-- Gartentipps
+- [Wetterlage Deutschland](https://t.me/wetterlage)
+- [Wetteruhr (für NRW)](https://t.me/WetteruhrBot)
+- [Gartentipps](https://t.me/gartentipps)
 
 **Lokales Wetter:**
 
-- Köln-Wetter
-- Duisburg-Wetter
-- Dortmund-Wetter
+- [Köln-Wetter](https://t.me/koelnwetter  )
+- [Duisburg-Wetter](https://t.me/duisburgwetter)
+- [Dortmund-Wetter](https://t.me/dortmundwetter)
 
-- Transformative Gedichte
+- [Transformative Gedichte](https://t.me/unbeirrbar)
 
+### Fehler
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wenn es Probleme gibt, einfach anschreiben unter folgender Email (einfach zusammensetzen): 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SirDagen/my-projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Erster Teil: gax
+Zweiter Teil: gmx.ch
+```
